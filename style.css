@@ -1,0 +1,17 @@
+h1{
+    color: red;
+    background-color: white;
+
+}
+
+body{
+    background-color: cyan;
+    background-image: url(dd.jfif);
+    background-repeat: no-repeat;
+    background-position: calc();
+    
+
+}
+p{
+    color: #000;
+}
